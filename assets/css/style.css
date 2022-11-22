@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* edhgfewgfr */ 
+/* changed from div to header */ 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* changed from div to nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,10 +34,12 @@ body {
     font-size: 20px;
 }
 
+/* changed div to nav */
 .header nav ul {
     list-style-type: none;
 }
 
+/* changed div to nav */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -51,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* changed div to figure */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,12 +74,14 @@ p {
     margin-left: 25px;
 }
 
+/* changed div to main */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* changed div to aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -87,6 +93,7 @@ p {
     background-color: #2589bd;
 }
 
+/* changed div to aside/ section */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -97,13 +104,13 @@ p {
     text-align: center;
 }
 
-
 .benefit-brand img, .benefit-cost img, .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* changed div to header */
 .search-engine-optimization, .social-media-marketing, .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,17 +120,17 @@ p {
     color: #ffffff;
 }
 
+/* added alt */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-
 
 .search-engine-optimization h2, .social-media-marketing h2, .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-
+/* changed div to footer */
 .footer {
     padding: 30px;
     clear: both;
